@@ -4,7 +4,7 @@ The analysis reveals several notable insights and potential issues with the data
 
 To run the code in a Colab notebook, use the following commands:
 
-!wget https://raw.githubusercontent.com/puigdedios/Predicting-Forest-Fire-Severity-with-Multiple-Regression-Models/main/forest_fires_2.py !python forest_fires_2.py
+!wget https://raw.githubusercontent.com/puigdedios/-Predicting-Forest-Fire-Severity-with-Multiple-Regression-Models/main/forest_fires_2.py !python forest_fires_2.py
 
 ---
 
