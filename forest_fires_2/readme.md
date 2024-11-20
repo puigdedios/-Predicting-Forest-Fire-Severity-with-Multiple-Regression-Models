@@ -2,13 +2,8 @@ The analysis reveals several notable insights and potential issues with the data
 
 ## How to Run the Code
 
-To run the code in a Colab notebook, use the following commands:
+Click forest_fires_2.ipynb
 
-!wget https://raw.githubusercontent.com/puigdedios/-Predicting-Forest-Fire-Severity-with-Multiple-Regression-Models/main/forest_fires_2.py !python forest_fires_2.py
-
----
-
-Here's a more concise and structured version of your README content with the key points clearly outlined:
 
 ---
 

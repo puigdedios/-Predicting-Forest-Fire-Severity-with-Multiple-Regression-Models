@@ -1,9 +1,6 @@
 ## How to Run the Code
 
-To run the code in a Colab notebook, use the following commands:
-
-!wget https://raw.githubusercontent.com/puigdedios/-Predicting-Forest-Fire-Severity-with-Multiple-Regression-Models/main/forest_fires_1.py !python forest_fires_1.py
-
+Click on forest_fires_1.ipynb
 
 
 ## Models Used
@@ -104,10 +101,3 @@ This will output the RMSE and R² values for each model, followed by visualizati
 
 Bar plots for RMSE and R² comparisons are generated, along with scatter plots for each model's actual vs. predicted values.
 
-## Contributing
-
-Feel free to fork this repository, submit issues, or contribute to improving the models and visualizations. Contributions to enhance model performance or add new features are always welcome!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

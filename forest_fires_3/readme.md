@@ -1,8 +1,6 @@
 ## How to Run the Code
 
-To run the code in a Colab notebook, use the following commands:
-
-!wget https://raw.githubusercontent.com/puigdedios/-Predicting-Forest-Fire-Severity-with-Multiple-Regression-Models/main/forest_fires_3.py !python forest_fires_3.py
+Click forest_fires_3.ipynb
 
 
 After applying sample weights, the model performance results show some improvements and some areas of concern. Here's a closer look at the results:
