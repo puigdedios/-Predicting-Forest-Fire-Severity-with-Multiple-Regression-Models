@@ -1,8 +1,7 @@
 The analysis reveals several notable insights and potential issues with the dataset that need addressing:
 
-## How to Run the Code
-
-Click forest_fires_2.ipynb
+## **How to See Results**
+To view the code and results, open the file forest_fires_2.ipynb, which is listed in the repository's file list above.
 
 
 ---

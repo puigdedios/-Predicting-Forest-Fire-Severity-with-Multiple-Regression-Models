@@ -1,6 +1,5 @@
-## How to Run the Code
-
-Click forest_fires_3.ipynb
+## **How to See Results**
+To view the code and results, open the file forest_fires_3.ipynb, which is listed in the repository's file list above.
 
 
 After applying sample weights, the model performance results show some improvements and some areas of concern. Here's a closer look at the results:
