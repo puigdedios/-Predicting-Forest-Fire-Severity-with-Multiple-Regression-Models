@@ -1,6 +1,5 @@
-## How to Run the Code
-
-Click on forest_fires_1.ipynb
+## **How to See Results**
+To view the code and results, open the file forest_fires_1.ipynb, which is listed in the repository's file list above.
 
 
 ## Models Used
@@ -53,43 +52,6 @@ The project includes the following key components:
   - Bar plots of RMSE and R² values for each model.
   - Scatter plots comparing actual vs. predicted values for each model.
 
-## Installation
-
-To run this project, you need the following Python libraries:
-
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- sklearn
-- xgboost
-- ucimlrepo
-
-You can install these dependencies using pip:
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn xgboost ucimlrepo
-```
-
-## Usage
-
-1. Clone this repository to your local machine:
-
-```bash
-git clone https://github.com/yourusername/forest-fire-prediction.git
-```
-
-2. Navigate to the project directory:
-
-```bash
-cd forest-fire-prediction
-```
-
-3. Run the Python script to train the models and evaluate their performance:
-
-```bash
-python forest_fire_prediction.py
-```
 
 This will output the RMSE and R² values for each model, followed by visualizations comparing the model performances and actual vs. predicted values.
 
